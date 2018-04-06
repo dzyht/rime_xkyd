@@ -1,0 +1,10 @@
+﻿# Rime dict
+# encoding: utf-8
+# 
+# 词库内容以外挂文件形式导入1
+# 请看xkyd.extended.dict.yaml内容
+---
+name: xkyd
+version: "Q1"
+sort: by_weight
+...

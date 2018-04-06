@@ -1,0 +1,12 @@
+﻿# coding: utf-8
+# 星空一笔用户词库
+# 该文件以UTF-8编码保存
+---
+name: xkyd.user
+version: "Q1"
+sort: by_weight
+...
+# 编码各字段以制表符（Tab）分隔
+# ====================
+# 词组	编码
+
