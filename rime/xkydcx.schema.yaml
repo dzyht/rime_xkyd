@@ -1,10 +1,10 @@
-﻿# Rime schema settings
+# Rime schema settings
 # encoding: utf-8
 
 schema:
   schema_id: xkydcx
   name: 万能键“'”（长按Z）
-  version: "v1"
+  version: "Q1"
 
 switches:
   - name: ascii_mode
