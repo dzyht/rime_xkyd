@@ -2681,6 +2681,7 @@ sort: by_weight
 堆	dvvoio
 碓	dvvu
 碓	dvvuio
+得	dw
 得	dwuuoi
 跌	dx
 叠	dxa
@@ -4884,6 +4885,7 @@ sort: by_weight
 砉	hsvv
 砉	hsvvv
 砉	hsvvvu
+还	ht
 欢	hta
 缓	htaa
 幻	htaaa
@@ -8954,6 +8956,7 @@ sort: by_weight
 篾	mxuvia
 灭	mxvoui
 你	n
+那	na
 纳	naa
 纳	naaaia
 乸	naai
@@ -11824,6 +11827,7 @@ sort: by_weight
 硕	sovuvu
 琐	sovv
 琐	sovvio
+上	sp
 桑	spa
 绱	spaa
 绱	spaaio
@@ -12902,6 +12906,8 @@ sort: by_weight
 屯	tyvaia
 坉	tyvova
 吞	tyvvoo
+们	u
+而	v
 有	v
 我	w
 挖	wa
@@ -13696,6 +13702,7 @@ sort: by_weight
 咸	xfvuoo
 燹	xfvuou
 现	xfvvia
+行	xg
 姓	xga
 骍	xgaa
 骍	xgaaov
@@ -15460,6 +15467,7 @@ sort: by_weight
 样	ypvouv
 殃	ypvu
 殃	ypvuia
+有	yr
 幼	yra
 幼	yraaau
 油	yrai
@@ -16263,6 +16271,7 @@ sort: by_weight
 状	zcovvu
 桩	zcv
 桩	zcvovu
+这	ze
 则	zea
 泽	zeaa
 泽	zeaaov
