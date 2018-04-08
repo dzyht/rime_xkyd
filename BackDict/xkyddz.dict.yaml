@@ -303,7 +303,6 @@ sort: by_weight
 襞	biavov
 辟	biavov
 臂	biavuu
-弼	biavv
 壁	biavv
 壁	biavvo
 弼	biavvu
@@ -364,7 +363,6 @@ sort: by_weight
 庇	biovv
 庇	biovva
 笔	biu
-鲾	biua
 匕	biua
 狴	biuav
 狴	biuava
@@ -597,7 +595,6 @@ sort: by_weight
 檗	boavv
 檗	boavvv
 播	boi
-卜	boi
 嶓	boia
 嶓	boiauo
 菠	boii
@@ -606,10 +603,10 @@ sort: by_weight
 薄	boiiav
 蕃	boiiu
 蕃	boiiuo
-钵	boio
+卜	boio
 铂	boiou
 铂	boioui
-钹	boiov
+钵	boiov
 钵	boiovi
 镈	boiovi
 钹	boiovu
@@ -1634,7 +1631,6 @@ sort: by_weight
 场	cpv
 场	cpvoau
 厂	cpvu
-臧	cpvu
 臧	cpvuv
 臧	cpvuvi
 玚	cpvv
@@ -1987,9 +1983,9 @@ sort: by_weight
 耷	davuvi
 掉	dd
 刁	dda
-屌	dda
 汈	ddaa
 汈	ddaavv
+屌	ddav
 屌	ddavoi
 钓	ddi
 铞	ddio
@@ -2143,7 +2139,6 @@ sort: by_weight
 垈	dhivvo
 傣	dhivvv
 呆	dho
-呔	dho
 诒	dhoa
 诒	dhoaa
 诒	dhoaao
@@ -7451,8 +7446,8 @@ sort: by_weight
 昤	lgoi
 昤	lgoiio
 呤	lgoioa
-〇	lgoo
 㥄	lgoo
+〇	lgooo
 㥄	lgoovo
 羚	lgou
 羚	lgouio
@@ -7512,7 +7507,6 @@ sort: by_weight
 梾	lhvvou
 里	li
 力	lia
-隶	lia
 骊	liaa
 蠡	liaai
 蠡	liaaia
@@ -7529,9 +7523,10 @@ sort: by_weight
 娌	liauia
 浰	liauv
 浰	liauvi
-沥	liav
+隶	liav
 溧	liavi
 溧	liavia
+沥	liavu
 沥	liavua
 隶	liavvi
 莉	lii
@@ -8847,7 +8842,6 @@ sort: by_weight
 某	mrvivv
 目	mu
 母	mua
-沐	mua
 母	muaaov
 牟	muao
 牟	muaouv
@@ -8855,6 +8849,7 @@ sort: by_weight
 姆	muauaa
 姥	muauu
 姥	muauuo
+沐	muav
 拇	mui
 睦	muia
 睦	muiavo
@@ -11277,10 +11272,10 @@ sort: by_weight
 泗	siaiau
 浉	siaiuv
 湿	siao
-厶	siao
 湜	siaoi
 湿	siaoii
 湜	siaoiv
+厶	siaoo
 虱	siau
 姒	siaua
 始	siauao
@@ -11386,9 +11381,8 @@ sort: by_weight
 凘	siovv
 凘	siovvi
 十	siu
-氏	siu
-饲	siua
-鲺	siuaa
+氏	siua
+饲	siuaa
 鲺	siuaau
 饲	siuaav
 蚀	siuai
@@ -13764,8 +13758,8 @@ sort: by_weight
 形	xgv
 醒	xgvi
 醒	xgvioi
-杏	xgvo
 幸	xgvo
+杏	xgvoo
 幸	xgvoou
 硎	xgvu
 硎	xgvuvv
@@ -14026,8 +14020,8 @@ sort: by_weight
 溴	xqau
 溴	xqauia
 休	xqi
-岫	xqi
-䗛	xqia
+岫	xqia
+䗛	xqiai
 岫	xqiaia
 䗛	xqiaii
 脩	xqii
@@ -14911,8 +14905,7 @@ sort: by_weight
 以	yi
 已	yia
 乙	yiaa
-驿	yiaa
-绎	yiaaa
+驿	yiaaa
 绎	yiaaao
 驿	yiaaao
 彝	yiaao
@@ -14951,7 +14944,6 @@ sort: by_weight
 异	yiavvu
 抑	yii
 亿	yiia
-屹	yiia
 峄	yiiaa
 眙	yiiaao
 峄	yiiaao
@@ -14962,7 +14954,7 @@ sort: by_weight
 佁	yiiaoo
 蚁	yiiaou
 螠	yiiaou
-嶷	yiiau
+屹	yiiau
 黟	yiiaua
 嶷	yiiaua
 屹	yiiauv
@@ -15525,7 +15517,6 @@ sort: by_weight
 悠	yriio
 悠	yriioa
 攸	yriiu
-莸	yriiu
 莸	yriiua
 攸	yriiuv
 莠	yriiuv
@@ -17091,7 +17082,6 @@ sort: by_weight
 䦃	zoioii
 捉	zoiu
 拙	zoiua
-擢	zoiua
 拙	zoiuai
 擢	zoiuao
 捽	zoiuo
