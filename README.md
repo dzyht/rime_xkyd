@@ -7,3 +7,9 @@ QQ群号：320053116
 星空键道：https://gitee.com/nmlixa/Rime_JD
 
 星空两笔：https://gitee.com/morler/rime_xklb
+
+使用点儿词库为基础，利用民间词组规则生成的星空两笔词库。
+
+感谢晓览大神的无私奉献！
+
+获取最新版本点儿词库请访问点儿词库网盘：http://gaokuan.ys168.com/
