@@ -16,7 +16,7 @@ cp -rf xkydjm.dict.yaml ./简码.txt
 echo 更为当前文件
 sed -i 's/\b爸爸\b\tbaba/---\nname: xkydcz\nversion: "Q1"\nsort: by_weight\n...\n&/' xkydcz.dict.yaml
 sed -i 's/\b那\b\ta/---\nname: xkyddz\nversion: "Q1"\nsort: by_weight\n...\n&/' xkyddz.dict.yaml
-sed -i 's/\bbiangbiang面\b\tbbmf/---\nname: xkydyw\nversion: "Q1"\nsort: by_weight\n...\n&/' xkydyw.dict.yaml
+sed -i 's/\bAA制\b\taaz/---\nname: xkydyw\nversion: "Q1"\nsort: by_weight\n...\n&/' xkydyw.dict.yaml
 sed -i 's/\b不错\b\tbc/---\nname: xkydjm\nversion: "Q1"\nsort: by_weight\n...\n&/' xkydjm.dict.yaml
 echo 执行排序添加头部信息完成
 cp -rf xkydcz.dict.yaml ../rime/
