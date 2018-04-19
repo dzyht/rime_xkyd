@@ -6076,6 +6076,7 @@ sort: by_weight
 被你	bwnio
 北南	bwnj
 背囊	bwnp
+背囊	bwns
 被虐	bwnz
 保温瓶	bwp
 备品	bwpb
@@ -16621,6 +16622,7 @@ sort: by_weight
 待你	dhni
 袋囊	dhnp
 呆妞	dhnq
+袋囊	dhns
 动画片	dhp
 待聘	dhpb
 待批	dhpi
@@ -17474,6 +17476,7 @@ sort: by_weight
 耽溺	djnie
 但能	djnm
 胆囊	djnp
+胆囊	djns
 挡箭牌	djp
 弹片	djpf
 单片	djpfo
@@ -20277,6 +20280,7 @@ sort: by_weight
 肚腩	dunj
 嘟哝	dunl
 嘟囔	dunp
+嘟囔	duns
 独女	dunv
 毒品	dupb
 独派	duph
@@ -37713,6 +37717,7 @@ sort: by_weight
 金牛	jbnq
 几百年前	jbnqu
 基本内容	jbnr
+锦囊	jbns
 劲弩	jbnu
 剑拔弩张	jbnz
 聚宝盆	jbp
@@ -38829,6 +38834,7 @@ sort: by_weight
 较能	jdnm
 娇嫩	jdnn
 胶囊	jdnp
+胶囊	jdns
 胶片	jdpf
 教派	jdph
 胶皮	jdpi
@@ -40503,6 +40509,7 @@ sort: by_weight
 竟能	jgnm
 金刚怒目	jgnmi
 精囊	jgnp
+精囊	jgns
 惊怒	jgnu
 境内	jgnw
 坚固耐用	jgny
@@ -45765,6 +45772,7 @@ sort: by_weight
 机械能	jxnme
 皆能	jxnmea
 解囊	jxnp
+解囊	jxns
 界内	jxnw
 军需品	jxp
 解聘	jxpb
@@ -57410,6 +57418,7 @@ sort: by_weight
 猫腻	mkni
 毛囊	mknp
 牦牛	mknq
+毛囊	mkns
 猫奴	mknu
 毛票	mkpd
 毛片	mkpf
@@ -62108,6 +62117,7 @@ sort: by_weight
 泥沙俱下	nsjx
 女生节	nsjxa
 那时快	nsk
+囊括	nsko
 南山可移	nsky
 泥石流	nsl
 南斯拉夫	nslf
@@ -62119,6 +62129,7 @@ sort: by_weight
 难舍难分	nsnf
 蹑手蹑脚	nsnj
 暖水瓶	nsp
+囊胚	nspw
 闹市区	nsq
 南沙群岛	nsqd
 年少轻狂	nsqk
@@ -62157,6 +62168,8 @@ sort: by_weight
 女士优先	nsyx
 那是一种	nsyz
 逆时针	nsz
+囊中	nszl
+囊肿	nszle
 那是自然	nszr
 男同胞	ntb
 女同胞	ntbk
@@ -63929,6 +63942,7 @@ sort: by_weight
 媲美	pimw
 睥睨	pini
 皮囊	pinp
+皮囊	pins
 琵琶	pipa
 枇杷	pipae
 噼啪	pipao
@@ -66762,6 +66776,7 @@ sort: by_weight
 清南	qgnj
 情浓	qgnl
 倾囊	qgnp
+倾囊	qgns
 清官难断家务事	qgns
 清贫	qgpb
 轻飘	qgpd
@@ -67571,6 +67586,7 @@ sort: by_weight
 气恼	qink
 岂能	qinm
 气囊	qinp
+气囊	qins
 妻女	qinv
 气馁	qinw
 其内	qinwe
@@ -75102,6 +75118,7 @@ sort: by_weight
 使能	sinmi
 斯诺	sino
 私囊	sinp
+私囊	sins
 侍女	sinv
 石女	sinve
 仕女	sinvi
@@ -92644,6 +92661,7 @@ sort: by_weight
 我能	wonm
 窝囊	wonp
 蜗牛	wonq
+窝囊	wons
 窝内	wonw
 握拍	woph
 窝棚	wopm
@@ -96031,6 +96049,7 @@ sort: by_weight
 巷弄	xcnle
 香农	xcnlu
 香囊	xcnp
+香囊	xcns
 向内	xcnw
 宣传片	xcp
 相拼	xcpb
@@ -97806,6 +97825,7 @@ sort: by_weight
 性能	xgnm
 性功能	xgnmo
 行囊	xgnp
+行囊	xgns
 性奴	xgnu
 性功能障碍	xgnv
 性虐	xgnz
@@ -104629,6 +104649,7 @@ sort: by_weight
 已不能	ybnmae
 又不能	ybnmae
 阴囊	ybnp
+阴囊	ybns
 也不能说	ybns
 药不能停	ybnt
 饮品	ybpb
@@ -106983,6 +107004,7 @@ sort: by_weight
 应能	ygnm
 应该能	ygnmo
 萤囊	ygnp
+萤囊	ygns
 一股脑儿	ygnv
 一骨脑儿	ygnve
 荧光屏	ygp
@@ -118998,6 +119020,7 @@ sort: by_weight
 芝诺	zino
 智囊	zinp
 执拗	zinq
+智囊	zins
 子女	zinv
 织女	zinva
 侄女	zinvi
