@@ -1,4 +1,4 @@
----
+ ---
 name: xkydcz
 version: "Q1"
 sort: by_weight
@@ -525,8 +525,8 @@ sort: by_weight
 标榜	bdbp
 百毒不侵	bdbq
 标榜	bdbs
-不打不相识	bdbs
 不多不少	bdbse
+不打不相识	bdbsei
 不得不说	bdbseu
 不得不低头	bdbt
 背对背	bdbw
@@ -809,9 +809,9 @@ sort: by_weight
 标有	bdyr
 必定有	bdyro
 表扬	bdys
-别的意思	bdys
 不等于说	bdyse
 不等于是	bdyseu
+别的意思	bdyso
 标语	bdyu
 不等于	bdyue
 不大于	bdyuee
@@ -1256,9 +1256,9 @@ sort: by_weight
 便有	bfyr
 便又	bfyri
 辩友	bfyro
-变样	bfys
 并非易事	bfys
 不妨一试	bfyse
+变样	bfyso
 边缘	bfyt
 边远	bfyta
 便于	bfyu
@@ -1965,8 +1965,8 @@ sort: by_weight
 白浪	bhlp
 比葫芦画瓢	bhlpe
 败柳	bhlq
-白浪	bhls
 辩护律师	bhls
+白浪	bhlsu
 冰火两重天	bhlt
 败露	bhlu
 白鹿	bhluu
@@ -2182,9 +2182,9 @@ sort: by_weight
 白羊	bhypu
 柏油	bhyr
 白杨	bhys
-不好意思	bhys
 柏杨	bhyse
-碧海银沙	bhyse
+不好意思	bhyse
+碧海银沙	bhysea
 冰寒于水	bhyso
 白羊	bhysu
 百元	bhyt
@@ -2873,8 +2873,7 @@ sort: by_weight
 板桥	bjqd
 搬迁	bjqf
 搬起	bjqi
-办起	bjqia
-编辑器	bjqiae
+编辑器	bjqia
 不景气	bjqie
 班期	bjqiee
 拔键器	bjqii
@@ -3029,7 +3028,7 @@ sort: by_weight
 边际效应	bjxy
 不仅限于	bjxye
 办学	bjxz
-北京西站	bjxz
+北京西站	bjxzi
 不介意	bjy
 板牙	bjya
 板鸭	bjyae
@@ -3081,9 +3080,9 @@ sort: by_weight
 搬运	bjyy
 拌匀	bjyyi
 背景音乐	bjyyio
-半月	bjyz
 不经一事不长一智	bjyz
 伴月	bjyzi
+半月	bjyzo
 败家子	bjz
 板砖	bjzb
 搬砖	bjzbi
@@ -4683,6 +4682,7 @@ sort: by_weight
 不求上进	bqsje
 不求甚解	bqsjee
 搬起石头砸自己的脚	bqsji
+办起事来	bqsl
 版权声明	bqsm
 版权所有	bqsy
 包青天	bqt
@@ -5284,8 +5284,8 @@ sort: by_weight
 不丹	budjeu
 布道	budk
 补刀	budko
-不动	budl
-不懂	budle
+不懂	budl
+不动	budle
 不等	budm
 不迭	budn
 不当	budp
@@ -24793,6 +24793,7 @@ sort: by_weight
 非份	fwfni
 肺腑	fwfu
 霏霏	fwfw
+飞飞	fwfwa
 狒狒	fwfwu
 凤尾菇	fwg
 防卫过当	fwgd
@@ -109739,8 +109740,9 @@ sort: by_weight
 耀斑	ykbji
 腰包	ykbk
 一刻不停	ykbt
-腰部	ykbu
+要不	ykbu
 药补	ykbui
+腰部	ykbuu
 腰背	ykbw
 要被	ykbwe
 洋快餐	ykc
