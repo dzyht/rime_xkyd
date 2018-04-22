@@ -20123,8 +20123,8 @@ sort: by_weight
 夺命	dom
 堕马	doma
 多么	dome
-多模	dome
 多麽	domeu
+多模	domeue
 多面	domf
 多名	domg
 夺命	domge
@@ -27601,7 +27601,7 @@ sort: by_weight
 割裂	gelx
 各门	gem
 隔膜	geme
-个么	geme
+个么	gemei
 膈膜	gemeu
 革命	gemg
 歌名	gemge
@@ -34992,8 +34992,8 @@ sort: by_weight
 浩淼	hkmd
 浩渺	hkmda
 毫秒	hkmdo
-毫末	hkme
 好么	hkme
+毫末	hkmeo
 好名	hkmg
 好命	hkmga
 豪迈	hkmh
@@ -36288,7 +36288,6 @@ sort: by_weight
 行泪	hplw
 行列	hplx
 海平面	hpm
-行么	hpme
 航模	hpme
 行末	hpmeu
 航模	hpmo
@@ -41547,8 +41546,8 @@ sort: by_weight
 这轮	jely
 遮面	jem
 责骂	jema
-折磨	jeme
 这么	jeme
+折磨	jemei
 这麽	jemeo
 这面	jemf
 遮面	jemfo
@@ -46409,7 +46408,7 @@ sort: by_weight
 极速秒传	jsmc
 佳妙	jsmd
 急什么	jsme
-夹馍	jsme
+夹馍	jsmee
 假面	jsmf
 加冕	jsmfa
 嘉勉	jsmfe
@@ -52619,7 +52618,7 @@ sort: by_weight
 喇嘛	lama
 辣妈	lamao
 拉磨	lame
-辣么	lame
+辣么	lameo
 拉面	lamf
 拉磨	lamo
 腊梅	lamw
@@ -59253,13 +59252,13 @@ sort: by_weight
 墨绿	melv
 抹泪	melw
 莫明	mem
-么么	meme
 默默	meme
 嬷嬷	memea
 陌陌	memeaa
 摸摸	memei
 磨墨	memeo
-馍馍	memeu
+么么	memeu
+馍馍	memeuu
 莫名	memg
 莫明	memgi
 魔门	memn
@@ -64011,8 +64010,8 @@ sort: by_weight
 哪么	nam
 纳秒	namd
 那么	name
-那末	name
 那麽	namea
+那末	namea
 哪么	nameo
 纳米	nami
 纳闷	namn
@@ -69427,8 +69426,8 @@ sort: by_weight
 颇费	prf
 颇丰	prfm
 破风	prfme
-泼妇	prfu
 剖腹	prfu
+泼妇	prfua
 颇负	prfua
 破釜	prfue
 破费	prfw
@@ -69458,15 +69457,14 @@ sort: by_weight
 颇佳	prjsa
 颇具	prju
 颇具	prjv
-破解	prjx
 剖解	prjx
+破解	prjxe
 破戒	prjxe
 破壳	prke
 剖开	prkh
 破空	prkl
 破口	prkr
 平日里	prl
-笸箩	prl
 泼辣	prla
 破了	prle
 魄力	prli
@@ -69502,7 +69500,6 @@ sort: by_weight
 迫切	prqx
 破缺	prqz
 譬如说	prs
-泼水	prs
 泼洒	prsa
 迫使	prsi
 剖视	prsi
@@ -69536,8 +69533,8 @@ sort: by_weight
 怦然心动	prxd
 破晓	prxd
 颇显	prxf
-婆媳	prxi
 剖析	prxi
+婆媳	prxia
 颇显	prxj
 破晓	prxk
 破鞋	prxn
@@ -81284,8 +81281,8 @@ sort: by_weight
 嘶骂	simao
 市民	simb
 寺庙	simd
-始末	sime
 是么	sime
+始末	simea
 石磨	simee
 石墨	simeei
 厮磨	simeeo
@@ -84574,9 +84571,9 @@ sort: by_weight
 神庙	snmdo
 神妙	snmdoa
 什么	snme
-神魔	snme
 甚么	snmee
 什麽	snmei
+神魔	snmeo
 神明	snmg
 申明	snmgi
 深埋	snmh
@@ -105154,6 +105151,7 @@ sort: by_weight
 小规模	xgm
 行吗	xgma
 形码	xgmae
+行么	xgme
 幸免	xgmf
 性命	xgmg
 姓名	xgmga
@@ -113359,8 +113357,8 @@ sort: by_weight
 源代码	ydma
 有多么的	ydmd
 有的没的	ydmde
-妖魔	ydme
 要么	ydme
+妖魔	ydmea
 药棉	ydmf
 药面	ydmfi
 要命	ydmg
@@ -115482,8 +115480,8 @@ sort: by_weight
 月末	yhm
 跃马	yhma
 约吗	yhmaa
-约么	yhme
 约莫	yhme
+约么	yhmea
 约摸	yhmea
 月末	yhmeu
 月明	yhmg
@@ -117962,8 +117960,8 @@ sort: by_weight
 要略	yklz
 一颗老鼠屎坏了一锅粥	yklze
 姚明	ykm
-妖魔	ykme
 要么	ykme
+妖魔	ykmea
 药棉	ykmf
 药面	ykmfi
 要命	ykmg
@@ -120473,10 +120471,10 @@ sort: by_weight
 有什么样的	ysmd
 也是蛮拼的	ysmda
 有什么特点	ysmde
-杨墨	ysme
 用什么	ysme
 要什么	ysmee
 有甚么	ysmeee
+杨墨	ysmeei
 羊膜	ysmeo
 仰面	ysmf
 有什么办法	ysmf
@@ -125713,8 +125711,8 @@ sort: by_weight
 这轮	zely
 遮面	zem
 责骂	zema
-折磨	zeme
 这么	zeme
+折磨	zemei
 这麽	zemeo
 这面	zemf
 遮面	zemfo
