@@ -307,6 +307,7 @@ sort: by_weight
 保不齐	bbq
 彪炳千古	bbqg
 摈弃	bbqi
+北半球	bbqo
 北半球	bbqq
 悲悲戚戚	bbqqi
 并不全是	bbqs
@@ -562,6 +563,7 @@ sort: by_weight
 装穷	bcql
 撞墙	bcqm
 装腔	bcqmo
+撞球	bcqo
 撞球	bcqq
 北辰区	bcqu
 北辰区	bcqv
@@ -1754,6 +1756,7 @@ sort: by_weight
 兵棋	bgqiu
 背过气来	bgql
 并且	bgqn
+冰球	bgqoo
 背过气去	bgqq
 倍感亲切	bgqqi
 冰球	bgqqo
@@ -2234,6 +2237,7 @@ sort: by_weight
 白棋	bhqiu
 不合情理	bhql
 百强	bhqm
+白球	bhqo
 白球	bhqq
 保护区	bhqu
 保护区	bhqv
@@ -2643,6 +2647,7 @@ sort: by_weight
 笔钱	biqj
 鼻腔	biqm
 逼抢	biqme
+壁球	biqo
 壁球	biqq
 敝人	bir
 比热	bire
@@ -3132,6 +3137,8 @@ sort: by_weight
 板桥	bjqk
 比较起来	bjql
 不近情理	bjqle
+板球	bjqoe
+半球	bjqoo
 并驾齐驱	bjqq
 板球	bjqqe
 半球	bjqqo
@@ -4148,6 +4155,7 @@ sort: by_weight
 波澜起伏	blqf
 柏林墙	blqm
 不留情面	blqm
+玻璃球	blqo
 玻璃球	blqq
 壁立千仞	blqr
 博览群书	blqs
@@ -4920,6 +4928,7 @@ sort: by_weight
 帮派	bpph
 帮腔	bpqc
 帮腔	bpqm
+棒球	bpqo
 棒球	bpqq
 鞭辟入里	bprl
 不怕死	bps
@@ -5306,6 +5315,7 @@ sort: by_weight
 倍受青睐	bsqli
 备受青睐	bsqlu
 帮腔	bsqm
+棒球	bsqo
 棒球	bsqq
 保税区	bsqu
 宝山区	bsquo
@@ -5864,6 +5874,7 @@ sort: by_weight
 不巧	buqk
 步枪	buqm
 不强	buqme
+不求	buqo
 不求	buqq
 补全	buqt
 不屈	buqu
@@ -6477,6 +6488,7 @@ sort: by_weight
 被抢	bwqm
 悲切	bwqn
 卑怯	bwqnu
+被囚	bwqo
 被囚	bwqq
 不完全正确	bwqqe
 不完全是	bwqs
@@ -6826,6 +6838,7 @@ sort: by_weight
 保险起见	bxqj
 不下去了	bxql
 补西墙	bxqm
+白血球	bxqo
 白血球	bxqq
 别去	bxqu
 憋屈	bxquo
@@ -7067,6 +7080,7 @@ sort: by_weight
 变压器	byqi
 编译器	byqia
 不远千里	byql
+博眼球	byqo
 博眼球	byqq
 不厌其详	byqx
 白云千载空悠悠	byqy
@@ -8179,6 +8193,8 @@ sort: by_weight
 筹钱	cdqjui
 凑巧	cdqk
 拆东墙	cdqmi
+臭球	cdqo
+抽球	cdqoi
 拆东墙补西墙	cdqq
 臭球	cdqq
 抽球	cdqqi
@@ -8701,6 +8717,7 @@ sort: by_weight
 船期	cfqiu
 吃饭去了	cfql
 穿墙	cfqmo
+传球	cfqo
 传球	cfqq
 篡权	cfqt
 窜入	cfr
@@ -9158,6 +9175,7 @@ sort: by_weight
 拆迁	chqj
 差遣	chqjo
 裁切	chqn
+彩球	chqo
 彩球	chqq
 春华秋实	chqs
 春花秋实	chqse
@@ -9628,6 +9646,7 @@ sort: by_weight
 此前	ciqj
 词穷	ciql
 持枪	ciqm
+刺球	ciqo
 刺球	ciqq
 辞去	ciqu
 驰驱	ciqua
@@ -10146,6 +10165,7 @@ sort: by_weight
 残棋	cjqie
 产前	cjqj
 餐前	cjqji
+铲球	cjqo
 铲球	cjqq
 产权	cjqt
 餐券	cjqti
@@ -12641,6 +12661,8 @@ sort: by_weight
 臭钱	crqju
 筹钱	crqjui
 凑巧	crqk
+臭球	crqo
+抽球	crqoi
 臭球	crqq
 抽球	crqqi
 抽取	crqu
@@ -13305,6 +13327,7 @@ sort: by_weight
 喘气	ctqio
 船期	ctqiu
 穿墙	ctqmo
+传球	ctqo
 传球	ctqq
 篡权	ctqt
 纯天然	ctr
@@ -13735,6 +13758,8 @@ sort: by_weight
 出窍	cuqka
 出枪	cuqm
 出墙	cuqma
+初秋	cuqo
+出糗	cuqoa
 初秋	cuqq
 出糗	cuqqa
 出拳	cuqt
@@ -14593,6 +14618,7 @@ sort: by_weight
 超预期	cyqi
 存钱	cyqj
 村前	cyqje
+春秋	cyqo
 春秋	cyqq
 曾荫权	cyqt
 存取	cyqu
@@ -15388,6 +15414,7 @@ sort: by_weight
 打枪	daqm
 搭腔	daqmi
 答腔	daqmu
+打球	daqo
 打球	daqq
 大权	daqt
 大圈	daqte
@@ -15786,6 +15813,7 @@ sort: by_weight
 对不起	dbq
 夺宝奇兵	dbqb
 调兵遣将	dbqj
+东半球	dbqo
 东半球	dbqq
 倒不如	dbr
 大步如飞	dbrf
@@ -16187,6 +16215,8 @@ sort: by_weight
 店大欺客	ddqk
 吊桥	ddqk
 颠倒乾坤	ddqku
+吊球	ddqoo
+貂裘	ddqou
 的的确确	ddqq
 吊球	ddqqo
 貂裘	ddqqu
@@ -16698,6 +16728,7 @@ sort: by_weight
 点钱	dfqj
 垫钱	dfqji
 电桥	dfqk
+点球	dfqo
 点球	dfqq
 垫圈	dfqt
 点券	dfqti
@@ -17065,6 +17096,7 @@ sort: by_weight
 大概其	dgqiee
 登鹳雀楼	dgql
 打官腔	dgqm
+地滚球	dgqo
 地滚球	dgqq
 多管齐下	dgqx
 德国人	dgr
@@ -17423,6 +17455,7 @@ sort: by_weight
 打呵欠	dhqji
 代签	dhqjiu
 带枪	dhqm
+带球	dhqo
 带球	dhqq
 大获全胜	dhqs
 带圈	dhqt
@@ -17811,6 +17844,7 @@ sort: by_weight
 底气	diqio
 底漆	diqioa
 地壳	diqk
+地球	diqo
 地球	diqq
 地权	diqt
 地区	diqu
@@ -18324,6 +18358,8 @@ sort: by_weight
 氮气	djqiuu
 单枪	djqm
 胆怯	djqn
+但求	djqo
+弹球	djqoa
 但求	djqq
 弹球	djqqa
 淡去	djqu
@@ -20903,6 +20939,7 @@ sort: by_weight
 断桥	dtqk
 短枪	dtqm
 断墙	dtqmo
+断球	dtqo
 断球	dtqq
 短裙	dtqy
 短缺	dtqz
@@ -21218,6 +21255,7 @@ sort: by_weight
 赌钱	duqj
 渡桥	duqk
 堵墙	duqm
+赌球	duqo
 赌球	duqq
 读取	duqu
 读取	duqv
@@ -22611,6 +22649,8 @@ sort: by_weight
 发妻	faqiae
 发钱	faqj
 罚钱	faqji
+发球	faqo
+罚球	faqoi
 发球	faqq
 罚球	faqqi
 法权	faqt
@@ -23461,6 +23501,7 @@ sort: by_weight
 翻墙	fjqm
 番茄	fjqn
 蕃茄	fjqni
+反求	fjqo
 反求	fjqq
 返券	fjqt
 番茄	fjqx
@@ -24373,6 +24414,7 @@ sort: by_weight
 坟前	fnqj
 分钱	fnqju
 粉墙	fnqm
+粪球	fnqo
 粪球	fnqq
 粉拳	fnqt
 分权	fnqtu
@@ -24737,6 +24779,8 @@ sort: by_weight
 房钱	fpqjo
 方琼	fpql
 放枪	fpqm
+访求	fpqo
+放球	fpqoo
 访求	fpqq
 放球	fpqqo
 放权	fpqt
@@ -26012,6 +26056,8 @@ sort: by_weight
 废气	fwqiou
 费钱	fwqj
 匪浅	fwqje
+非酋	fwqo
+非酋	fwqq
 飞泉	fwqt
 飞去	fwqu
 服务区	fwquu
@@ -28615,6 +28661,7 @@ sort: by_weight
 高强	gkqm
 高墙	gkqmo
 高腔	gkqmou
+高俅	gkqo
 高俅	gkqq
 告缺	gkqz
 高热	gkre
@@ -29072,6 +29119,7 @@ sort: by_weight
 工钱	glqj
 拱桥	glqk
 宫墙	glqm
+供求	glqo
 供求	glqq
 公权	glqt
 管理权	glqtu
@@ -29881,6 +29929,7 @@ sort: by_weight
 过桥	goqk
 国强	goqm
 过强	goqme
+国球	goqo
 国球	goqq
 国权	goqt
 过去	goqu
@@ -31601,6 +31650,7 @@ sort: by_weight
 归侨	gvqd
 归期	gvqi
 归侨	gvqk
+跪求	gvqo
 跪求	gvqq
 规劝	gvqt
 贵圈	gvqti
@@ -31880,6 +31930,7 @@ sort: by_weight
 固线器	gxqii
 刚想起来	gxql
 个性签名	gxqm
+滚雪球	gxqo
 滚雪球	gxqq
 各行其是	gxqs
 高新区	gxqu
@@ -32014,6 +32065,7 @@ sort: by_weight
 观音菩萨	gyps
 公元前	gyq
 感应器	gyqi
+滚球	gyqoa
 各有千秋	gyqq
 滚球	gyqqa
 工业区	gyqu
@@ -33125,6 +33177,7 @@ sort: by_weight
 呵气	heqio
 和棋	heqiu
 呵欠	heqj
+何求	heqo
 何求	heqq
 和洽	heqs
 何去	hequ
@@ -34159,6 +34212,7 @@ sort: by_weight
 旱情	hjqgo
 寒气	hjqi
 焊枪	hjqm
+寒秋	hjqo
 寒秋	hjqq
 酣然	hjr
 寒热	hjre
@@ -34561,6 +34615,8 @@ sort: by_weight
 好巧	hkqk
 好强	hkqm
 豪强	hkqmo
+好球	hkqo
+号球	hkqoo
 好球	hkqq
 号球	hkqqo
 耗去	hkqu
@@ -34916,6 +34972,7 @@ sort: by_weight
 虹桥	hlqk
 红墙	hlqm
 哄抢	hlqmo
+红球	hlqo
 红球	hlqq
 红圈	hlqt
 哄劝	hlqto
@@ -35597,6 +35654,7 @@ sort: by_weight
 火钳	hoqj
 火前	hoqjo
 火枪	hoqm
+火球	hoqo
 火球	hoqq
 火圈	hoqt
 获权	hoqti
@@ -36956,6 +37014,8 @@ sort: by_weight
 换气	htqii
 换妻	htqiie
 换钱	htqj
+环球	htqo
+寰球	htqoo
 环球	htqq
 寰球	htqqo
 换取	htqu
@@ -37284,6 +37344,7 @@ sort: by_weight
 虎钳	huqf
 呼气	huqi
 虎钳	huqj
+虎丘	huqo
 虎丘	huqq
 互掐	huqs
 弧圈	huqt
@@ -37985,6 +38046,7 @@ sort: by_weight
 黑气	hwqiiu
 黑钱	hwqj
 黑枪	hwqm
+黑球	hwqo
 黑球	hwqq
 黑人	hwrn
 好为人师	hwrs
@@ -38434,6 +38496,7 @@ sort: by_weight
 魂牵	hyqje
 很有钱	hyqju
 红缨枪	hyqm
+混球	hyqo
 混球	hyqq
 好友请求	hyqqa
 黑眼圈	hyqt
@@ -39336,6 +39399,10 @@ sort: by_weight
 记不起来	jbql
 基本权利	jbqle
 禁枪	jbqm
+进球	jbqo
+金秋	jbqoi
+金球	jbqoie
+今秋	jbqoiu
 进球	jbqq
 绝不强求	jbqqa
 金秋	jbqqi
@@ -39858,6 +39925,7 @@ sort: by_weight
 监测器	jcqii
 奖旗	jcqio
 寄存器	jcqioe
+讲求	jcqo
 讲求	jcqq
 嫁出去的女儿泼出去的水	jcqs
 奖券	jcqt
@@ -40472,6 +40540,7 @@ sort: by_weight
 缴枪	jdqma
 交强	jdqmoa
 交枪	jdqmoe
+角球	jdqo
 角球	jdqq
 绝地求生	jdqs
 绝地求生大逃杀	jdqsa
@@ -41542,6 +41611,7 @@ sort: by_weight
 渐强	jfqma
 贱妾	jfqn
 剪切	jfqno
+捡球	jfqo
 捡球	jfqq
 健全	jfqt
 解放区	jfqu
@@ -43442,6 +43512,9 @@ sort: by_weight
 极强	jiqme
 急切	jiqn
 姬妾	jiqna
+击球	jiqo
+冀求	jiqoi
+急求	jiqou
 击球	jiqq
 冀求	jiqqi
 急求	jiqqu
@@ -45860,6 +45933,8 @@ sort: by_weight
 家穷	jsql
 决胜千里	jsqlo
 加强	jsqm
+假球	jsqo
+净胜球	jsqoo
 假球	jsqq
 净胜球	jsqqo
 救生圈	jsqt
@@ -47656,6 +47731,8 @@ sort: by_weight
 借钱	jxqj
 节前	jxqji
 接腔	jxqm
+阶下囚	jxqo
+接球	jxqoi
 阶下囚	jxqq
 接球	jxqqi
 近乡情怯	jxqqu
@@ -49301,6 +49378,9 @@ sort: by_weight
 可气	keqie
 课前	keqj
 可巧	keqk
+渴求	keqo
+可求	keqoe
+苛求	keqoi
 渴求	keqq
 可求	keqqe
 苛求	keqqi
@@ -49810,6 +49890,7 @@ sort: by_weight
 开枪	khqm
 开腔	khqme
 开抢	khqmei
+开球	khqo
 开球	khqq
 开去	khqu
 开去	khqv
@@ -50036,6 +50117,7 @@ sort: by_weight
 看清	kjqg
 看轻	kjqgi
 看齐	kjqi
+看球	kjqo
 看球	kjqq
 看去	kjqu
 砍去	kjque
@@ -50429,6 +50511,8 @@ sort: by_weight
 空气	klqi
 空前	klqj
 空枪	klqm
+控球	klqo
+孔丘	klqoa
 控球	klqq
 孔丘	klqqa
 空群	klqy
@@ -50596,6 +50680,7 @@ sort: by_weight
 可能没有	knmy
 恳请	knqg
 恳切	knqn
+恳求	knqo
 恳求	knqq
 垦区	knqu
 垦区	knqv
@@ -50883,6 +50968,8 @@ sort: by_weight
 口气	krqi
 扣钱	krqj
 口腔	krqm
+扣球	krqo
+口球	krqoo
 扣球	krqq
 口球	krqqo
 扣去	krqu
@@ -51340,6 +51427,7 @@ sort: by_weight
 酷骑	kuqie
 哭穷	kuql
 哭腔	kuqm
+苦求	kuqo
 苦求	kuqq
 苦劝	kuqt
 库区	kuqu
@@ -52111,6 +52199,7 @@ sort: by_weight
 了不起	lbq
 萝卜青菜	lbqc
 滤波器	lbqi
+篮板球	lbqo
 篮板球	lbqq
 林区	lbqu
 林区	lbqv
@@ -53097,6 +53186,8 @@ sort: by_weight
 脸前	lfqj
 连敲	lfqk
 连翘	lfqke
+练球	lfqo
+链球	lfqoi
 练球	lfqq
 链球	lfqqi
 练拳	lfqt
@@ -54024,6 +54115,8 @@ sort: by_weight
 利器	liqiu
 礼钱	liqj
 力强	liqm
+力求	liqo
+立秋	liqoo
 力求	liqq
 立秋	liqqo
 力劝	liqt
@@ -54393,6 +54486,8 @@ sort: by_weight
 量角器	ljqi
 累加器	ljqii
 了解情况	ljqk
+篮球	ljqo
+蓝球	ljqoi
 篮球	ljqq
 蓝球	ljqqi
 揽权	ljqt
@@ -55705,6 +55800,8 @@ sort: by_weight
 六千	lqqj
 刘谦	lqqjo
 两全其美	lqqm
+琉球	lqqo
+溜秋	lqqoa
 琉球	lqqq
 溜秋	lqqqa
 流泉	lqqt
@@ -56203,6 +56300,7 @@ sort: by_weight
 临时拼音生僻字	lspzi
 刘少奇	lsq
 两受其害	lsqh
+梁实秋	lsqo
 梁实秋	lsqq
 绿水青山	lsqs
 狼群	lsqy
@@ -56808,6 +56906,7 @@ sort: by_weight
 绿皮	lvpi
 滤清	lvqg
 氯气	lvqi
+绿球	lvqo
 绿球	lvqq
 旅日	lvri
 旅人	lvrn
@@ -56978,6 +57077,7 @@ sort: by_weight
 恋物癖	lwpio
 卢湾区	lwq
 了无牵挂	lwqg
+垒球	lwqo
 垒球	lwqq
 雷区	lwqu
 雷区	lwqv
@@ -57885,6 +57985,7 @@ sort: by_weight
 马棚	mapm
 马棚	mapv
 麻雀	maqh
+马球	maqo
 马球	maqq
 马群	maqy
 麻雀	maqz
@@ -58744,6 +58845,7 @@ sort: by_weight
 免签	mfqju
 勉强	mfqm
 面墙	mfqme
+棉球	mfqo
 棉球	mfqq
 名副其实	mfqs
 面洽	mfqse
@@ -60110,6 +60212,7 @@ sort: by_weight
 毛钱	mkqf
 冒起	mkqi
 毛钱	mkqj
+毛球	mkqo
 毛球	mkqq
 冒然	mkr
 贸然	mkrj
@@ -60662,6 +60765,7 @@ sort: by_weight
 模拟器	mnqie
 门前	mnqj
 门墙	mnqm
+门球	mnqo
 门球	mnqq
 闷热	mnre
 门人	mnrn
@@ -61208,6 +61312,7 @@ sort: by_weight
 美人胚子	mrpz
 牟取	mrq
 某期	mrqi
+谋求	mrqo
 谋求	mrqq
 谋取	mrqu
 牟取	mrqua
@@ -61920,6 +62025,8 @@ sort: by_weight
 幕前	muqjio
 木桥	muqk
 幕墙	muqm
+暮秋	muqo
+母球	muqoa
 暮秋	muqq
 母球	muqqa
 牧区	muqu
@@ -62297,6 +62404,7 @@ sort: by_weight
 酶切	mwqn
 勉为其难	mwqn
 目无全牛	mwqni
+煤球	mwqo
 煤球	mwqq
 没趣	mwqu
 每区	mwquu
@@ -63132,7 +63240,7 @@ sort: by_weight
 拿开	nakh
 哪肯	nakn
 哪款	nakt
-纳凉	nal
+哪里	nal
 娜拉	nala
 那辆	nalc
 纳凉	nalca
@@ -63233,7 +63341,7 @@ sort: by_weight
 那位	naww
 纳为	nawwa
 哪位	nawwo
-那项	nax
+哪些	nax
 纳新	naxb
 哪像	naxc
 那项	naxca
@@ -64075,6 +64183,7 @@ sort: by_weight
 泥淖	nink
 倪萍	nipg
 拟请	niqg
+泥鳅	niqo
 泥鳅	niqq
 拟人	nir
 泥人	nirn
@@ -64334,6 +64443,7 @@ sort: by_weight
 难骑	njqia
 南迁	njqj
 南墙	njqm
+难求	njqoa
 年纪轻轻	njqq
 难求	njqqa
 男权	njqt
@@ -65486,6 +65596,7 @@ sort: by_weight
 女儿墙	nvq
 女墙	nvqc
 女墙	nvqm
+女囚	nvqo
 女囚	nvqq
 女权	nvqt
 女人	nvrn
@@ -66752,6 +66863,7 @@ sort: by_weight
 皮袍	pepk
 匹配	pepw
 脾气	peqi
+皮球	peqo
 皮球	peqq
 劈去	pequ
 劈去	peqv
@@ -67372,6 +67484,8 @@ sort: by_weight
 排期	phqii
 派遣	phqj
 排遣	phqji
+排球	phqo
+拍球	phqoi
 排球	phqq
 拍球	phqqi
 派去	phqu
@@ -67564,6 +67678,7 @@ sort: by_weight
 皮袍	pipk
 匹配	pipw
 脾气	piqi
+皮球	piqo
 皮球	piqq
 劈去	piqu
 劈去	piqv
@@ -67898,6 +68013,7 @@ sort: by_weight
 抛弃	pkqi
 抛妻	pkqii
 跑起	pkqio
+抛球	pkqo
 抛球	pkqq
 跑圈	pkqt
 跑去	pkqu
@@ -69715,6 +69831,8 @@ sort: by_weight
 去粗取精	qcqj
 群策群力	qcql
 锵锵	qcqm
+强求	qcqo
+抢球	qcqoi
 强求	qcqq
 抢球	qcqqi
 强权	qcqt
@@ -70282,6 +70400,8 @@ sort: by_weight
 浅浅	qfqj
 欠钱	qfqju
 牵强	qfqm
+千秋	qfqo
+铅球	qfqoi
 千秋	qfqq
 铅球	qfqqi
 恰逢其时	qfqs
@@ -70839,6 +70959,8 @@ sort: by_weight
 轻敲	qgqke
 轻悄	qgqkeo
 情切	qgqn
+请求	qgqo
+清秋	qgqoa
 请求	qgqq
 清秋	qgqqa
 秋高气爽	qgqs
@@ -71702,6 +71824,10 @@ sort: by_weight
 气枪	qiqmu
 妻妾	qiqn
 凄切	qiqno
+祈求	qiqo
+企求	qiqoi
+气球	qiqou
+乞求	qiqoue
 祈求	qiqq
 企求	qiqqi
 气球	qiqqu
@@ -72276,6 +72402,8 @@ sort: by_weight
 欠钱	qjqju
 倾尽全力	qjql
 牵强	qjqm
+千秋	qjqo
+铅球	qjqoi
 千秋	qjqq
 铅球	qjqqi
 缱绻	qjqt
@@ -72978,6 +73106,8 @@ sort: by_weight
 抢钱	qmqj
 锵锵	qmqm
 强买强卖	qmqm
+强求	qmqo
+抢球	qmqoi
 强求	qmqq
 抢球	qmqqi
 强权	qmqt
@@ -73254,6 +73384,214 @@ sort: by_weight
 强弩之末	qnzm
 窃贼	qnzw
 七年之痒	qnzy
+球状	qobc
+秋装	qobcu
+求变	qobf
+糗百	qobh
+秋波	qobo
+秋播	qobou
+球棒	qobp
+球棒	qobs
+求偿	qoc
+囚车	qoce
+求疵	qoci
+秋蝉	qocj
+秋虫	qocl
+求成	qocm
+秋晨	qocn
+球场	qocp
+求偿	qocpe
+囚车	qocs
+求出	qocu
+求存	qocy
+求得	qodee
+球胆	qodj
+求导	qodk
+秋冬	qodl
+球洞	qodle
+球队	qodv
+球风	qof
+求发	qofa
+囚犯	qofj
+秋风	qofm
+球风	qofme
+秋枫	qofmu
+秋分	qofn
+求佛	qofo
+囚服	qofu
+球服	qofue
+秋光	qogc
+球杆	qogj
+求告	qogk
+秋耕	qogm
+求根	qogn
+求购	qogr
+球馆	qogt
+求官	qogte
+求和	qohe
+丘壑	qoheu
+秋寒	qohj
+秋毫	qohk
+秋后	qohr
+求欢	qoht
+求婚	qohy
+球技	qoj
+囚禁	qojb
+球进	qojbe
+遒劲	qojbo
+秋瑾	qojbu
+求教	qojd
+求见	qojf
+秋景	qojg
+求精	qojge
+球茎	qojgei
+秋季	qoji
+球技	qojie
+求救	qojq
+秋菊	qoju
+秋菊	qojv
+求解	qojx
+求借	qojxe
+虬结	qojxi
+球菌	qojye
+秋裤	qoku
+秋粮	qol
+秋凉	qolc
+秋粮	qolcu
+丘陵	qolg
+囚牢	qolk
+囚笼	qoll
+虬龙	qolli
+秋露	qolu
+球类	qolw
+求码	qoma
+秋末	qome
+球面	qomf
+球迷	qomi
+球帽	qomk
+球门	qomn
+秋末	qomo
+球盲	qomp
+球盲	qoms
+球迷	qomt
+求你	qoni
+裘皮	qope
+球拍	qoph
+裘皮	qopi
+求签	qoq
+秋千	qoqf
+求签	qoqfe
+求情	qoqg
+秋千	qoqj
+求签	qoqje
+求求	qoqo
+求求	qoqq
+求全	qoqt
+球权	qoqte
+求取	qoqu
+囚区	qoqui
+求取	qoqv
+囚区	qoqvi
+秋日	qori
+虬髯	qorj
+求饶	qork
+求人	qorn
+秋霜	qosc
+秋爽	qoscu
+秋色	qose
+球赛	qosh
+囚室	qosi
+求死	qosie
+求实	qosieo
+求是	qosieo
+球市	qosieo
+糗事	qosio
+秋实	qosiu
+秋山	qosj
+求生	qosm
+求胜	qosme
+秋声	qosmu
+求神	qosn
+求索	qoso
+秋收	qosr
+球手	qosre
+求售	qosrei
+秋熟	qosu
+秋水	qosv
+泅水	qosva
+秋天	qotf
+秋田	qotfu
+球台	qoth
+球体	qoti
+球坛	qotj
+球童	qotl
+求同	qotle
+囚徒	qotu
+求爱	qovh
+求医	qovi
+球衣	qovie
+球艺	qoviei
+囚衣	qovii
+秋意	qoviu
+秋衣	qoviuo
+求偶	qovr
+球王	qow
+求稳	qown
+球网	qowp
+球王	qowpe
+求新	qoxb
+秋香	qoxc
+求仙	qoxfe
+求贤	qoxfei
+球星	qoxg
+球形	qoxge
+求学	qoxh
+求仙	qoxje
+求贤	qoxjei
+球鞋	qoxn
+球鞋	qoxx
+秋汛	qoxy
+求学	qoxz
+秋叶	qoy
+蚯蚓	qoyb
+秋夜	qoye
+秋叶	qoyeu
+秋月	qoyh
+求医	qoyi
+球衣	qoyie
+球艺	qoyiei
+囚衣	qoyii
+秋意	qoyiu
+秋衣	qoyiuo
+秋游	qoyr
+球友	qoyre
+糗友	qoyro
+球员	qoyt
+求援	qoyte
+秋雨	qoyu
+求雨	qoyue
+犰狳	qoyuu
+秋雨	qoyv
+求雨	qoyve
+犰狳	qoyvu
+秋月	qoyz
+求知	qoz
+球状	qozc
+秋装	qozcu
+求职	qozi
+求知	qozie
+求治	qoziea
+求值	qoziei
+求战	qozj
+秋招	qozk
+求证	qozm
+求真	qozn
+求诊	qozne
+球桌	qozo
+酋长	qozp
+求助	qozu
+求诸	qozue
+求租	qozueu
 七拼八凑	qpbc
 倾盆大雨	qpdy
 全盘否定	qpfd
@@ -73448,6 +73786,7 @@ sort: by_weight
 求情	qqqg
 秋千	qqqj
 求签	qqqje
+求求	qqqo
 求求	qqqq
 求全	qqqt
 球权	qqqte
@@ -73978,6 +74317,7 @@ sort: by_weight
 圈钱	qtqj
 权钱	qtqje
 权且	qtqn
+全球	qtqo
 全球	qtqq
 劝劝	qtqt
 全权	qtqti
@@ -76410,6 +76750,7 @@ sort: by_weight
 人前	rnqj
 任前	rnqji
 人墙	rnqm
+任丘	rnqo
 任丘	rnqq
 人权	rnqt
 任取	rnqu
@@ -77175,6 +77516,8 @@ sort: by_weight
 如期	ruqi
 如其	ruqia
 如前	ruqj
+入秋	ruqo
+入球	ruqou
 入秋	ruqq
 入球	ruqqu
 入群	ruqy
@@ -77743,6 +78086,7 @@ sort: by_weight
 煞气	saqiu
 杀妻	saqiue
 杀器	saqiuo
+沙丘	saqo
 沙丘	saqq
 纱裙	saqy
 砂仁	sar
@@ -78751,6 +79095,8 @@ sort: by_weight
 舍弃	seqi
 赊欠	seqj
 涉枪	seqm
+奢求	seqo
+色球	seqou
 奢求	seqq
 色球	seqqu
 社区	sequ
@@ -78941,6 +79287,7 @@ sort: by_weight
 手风琴	sfqb
 十分确定	sfqd
 适逢其会	sfqh
+三分球	sfqo
 三分球	sfqq
 随风潜入夜	sfqy
 是非曲直	sfqz
@@ -80371,6 +80718,10 @@ sort: by_weight
 十强	siqmu
 失窃	siqn
 侍妾	siqni
+死囚	siqo
+死球	siqoe
+试求	siqoo
+失球	siqou
 死囚	siqq
 死球	siqqe
 试求	siqqo
@@ -81619,6 +81970,8 @@ sort: by_weight
 三缄其口	sjqke
 杀鸡取卵	sjql
 三强	sjqm
+山丘	sjqo
+三秋	sjqoe
 山丘	sjqq
 三秋	sjqqe
 山泉	sjqt
@@ -83530,6 +83883,7 @@ sort: by_weight
 审前	snqjo
 神枪	snqm
 深切	snqn
+深秋	snqo
 深秋	snqq
 神权	snqt
 身躯	snqu
@@ -83931,6 +84285,8 @@ sort: by_weight
 说起	soqi
 所起	soqiu
 所欠	soqj
+所求	soqo
+索求	soqou
 所求	soqq
 索求	soqqu
 索取	soqu
@@ -84366,6 +84722,7 @@ sort: by_weight
 上翘	spqk
 上墙	spqm
 尚且	spqn
+商丘	spqo
 商丘	spqq
 商洽	spqs
 商圈	spqt
@@ -85095,6 +85452,7 @@ sort: by_weight
 手巧	srqk
 受穷	srql
 手枪	srqm
+手球	srqo
 手球	srqq
 授权	srqt
 收全	srqta
@@ -86368,6 +86726,8 @@ sort: by_weight
 输钱	suqje
 术前	suqjeo
 数钱	suqjo
+诉求	suqo
+输球	suqoe
 诉求	suqq
 输球	suqqe
 诉权	suqt
@@ -86935,6 +87295,7 @@ sort: by_weight
 髓鞘	svqk
 谁强	svqm
 水枪	svqma
+水球	svqo
 水球	svqq
 水泉	svqt
 睡去	svqu
@@ -87681,6 +88042,7 @@ sort: by_weight
 数以千计	syqj
 水淹七军	syqja
 说也巧	syqko
+所要求	syqou
 事有蹊跷	syqq
 声誉鹊起	syqqe
 所要求	syqqu
@@ -89625,6 +89987,7 @@ sort: by_weight
 台前	thqj
 太浅	thqje
 太强	thqm
+台球	thqo
 台球	thqq
 泰拳	thqt
 太热	thre
@@ -89888,6 +90251,7 @@ sort: by_weight
 题签	tiqjo
 体腔	tiqm
 提挈	tiqn
+踢球	tiqo
 踢球	tiqq
 提取	tiqu
 提取	tiqv
@@ -90177,6 +90541,8 @@ sort: by_weight
 谈钱	tjqj
 贪钱	tjqji
 团结起来	tjql
+探求	tjqo
+贪求	tjqoie
 探求	tjqq
 投机取巧	tjqqi
 偷奸取巧	tjqqia
@@ -90803,6 +91169,7 @@ sort: by_weight
 通窍	tlqk
 跳了起来	tlql
 痛切	tlqn
+同求	tlqoi
 天朗气清	tlqq
 同求	tlqqi
 同去	tlqu
@@ -91077,6 +91444,7 @@ sort: by_weight
 腾挪	tmno
 天命难违	tmnw
 腾起	tmqi
+藤球	tmqo
 藤球	tmqq
 唐马儒	tmr
 他们认为	tmrw
@@ -91236,6 +91604,7 @@ sort: by_weight
 铁锹	tnqk
 铁桥	tnqki
 贴切	tnqn
+铁球	tnqo
 铁球	tnqq
 铁拳	tnqt
 探囊取物	tnqw
@@ -91417,6 +91786,7 @@ sort: by_weight
 唾弃	toqio
 拖欠	toqj
 脱壳	toqk
+椭球	toqo
 椭球	toqq
 脱去	toqu
 脱去	toqv
@@ -91574,6 +91944,7 @@ sort: by_weight
 投票权	tpq
 躺枪	tpqc
 躺枪	tpqm
+踢皮球	tpqo
 踢皮球	tpqq
 倘然	tprj
 唐人	tprn
@@ -91816,6 +92187,8 @@ sort: by_weight
 偷钱	trqji
 突如其来	trql
 偷窃	trqn
+投球	trqo
+头球	trqoo
 投球	trqq
 头球	trqqo
 偷取	trqu
@@ -92331,6 +92704,7 @@ sort: by_weight
 土墙	tuqm
 土枪	tuqme
 图强	tuqmi
+土丘	tuqo
 土丘	tuqq
 突然	turj
 徒然	turju
@@ -92879,6 +93253,7 @@ sort: by_weight
 铁锹	txqk
 铁桥	txqki
 贴切	txqn
+铁球	txqo
 铁球	txqq
 铁拳	txqt
 贴切	txqx
@@ -93349,6 +93724,7 @@ sort: by_weight
 阿片	vapf
 阿婆	vapo
 阿婆	vapr
+阿丘	vaqo
 阿丘	vaqq
 阿瑟	vase
 阿衰	vasg
@@ -93800,6 +94176,7 @@ sort: by_weight
 爱墙	vhqmue
 爱妾	vhqn
 哀切	vhqno
+哀求	vhqo
 哀求	vhqq
 爱犬	vhqt
 爱妾	vhqx
@@ -94545,6 +94922,7 @@ sort: by_weight
 一枪	viqm
 一腔	viqme
 一切	viqn
+以求	viqo
 以求	viqq
 一圈	viqt
 一拳	viqte
@@ -95494,6 +95872,8 @@ sort: by_weight
 遨游	vkyr
 傲游	vkyri
 澳元	vkyt
+媪妪	vkyu
+媪妪	vkyv
 奥运	vkyy
 熬粥	vkz
 熬制	vkzi
@@ -95942,6 +96322,7 @@ sort: by_weight
 偶感	vrgj
 欧冠	vrgt
 偶合	vrh
+欧皇	vrhc
 耦合	vrhe
 偶合	vrhei
 偶或	vrho
@@ -96245,6 +96626,7 @@ sort: by_weight
 二期	vuqie
 二千	vuqj
 而且	vuqn
+二球	vuqo
 二球	vuqq
 二区	vuqu
 二区	vuqv
@@ -97567,6 +97949,7 @@ sort: by_weight
 晚期	wjqio
 万千	wjqj
 顽强	wjqm
+晚秋	wjqo
 晚秋	wjqq
 完全	wjqt
 万全	wjqte
@@ -98728,6 +99111,8 @@ sort: by_weight
 网签	wpqji
 网桥	wpqk
 王强	wpqm
+网球	wpqo
+妄求	wpqoo
 网球	wpqq
 妄求	wpqqo
 王权	wpqt
@@ -99576,6 +99961,8 @@ sort: by_weight
 无前	wuqjeo
 吴桥	wuqk
 无穷	wuql
+务求	wuqo
+无求	wuqoe
 务求	wuqq
 无求	wuqqe
 无权	wuqt
@@ -100352,6 +100739,7 @@ sort: by_weight
 围墙	wwqm
 危墙	wwqmu
 畏怯	wwqn
+为求	wwqooe
 完完全全	wwqq
 弯弯曲曲	wwqqo
 为求	wwqqoe
@@ -101459,6 +101847,7 @@ sort: by_weight
 新巧	xbqko
 想不起来	xbql
 心切	xbqn
+西半球	xbqo
 西半球	xbqq
 新区	xbqu
 心曲	xbquo
@@ -102043,6 +102432,7 @@ sort: by_weight
 相欠	xcqje
 镶嵌	xcqji
 相切	xcqn
+相求	xcqo
 相求	xcqq
 相劝	xcqt
 项圈	xcqte
@@ -102710,6 +103100,7 @@ sort: by_weight
 小瞧	xdqkii
 小强	xdqm
 小妾	xdqn
+小球	xdqo
 小球	xdqq
 小泉	xdqt
 小圈	xdqti
@@ -103355,6 +103746,7 @@ sort: by_weight
 先遣	xfqju
 纤巧	xfqk
 弦桥	xfqka
+悬浮球	xfqo
 悬浮球	xfqq
 线圈	xfqt
 先驱	xfqu
@@ -103848,6 +104240,7 @@ sort: by_weight
 行乞	xgqiuu
 行窃	xgqn
 斜杠青年	xgqn
+星球	xgqo
 星球	xgqq
 兴趣	xgqu
 性趣	xgquo
@@ -104243,6 +104636,9 @@ sort: by_weight
 血气	xhqiu
 学前	xhqj
 雪橇	xhqk
+雪球	xhqo
+削球	xhqoi
+血球	xhqou
 雪球	xhqq
 削球	xhqqi
 血球	xhqqu
@@ -104768,6 +105164,7 @@ sort: by_weight
 喜迁	xiqjeu
 细巧	xiqk
 阋墙	xiqm
+希求	xiqo
 希求	xiqq
 吸取	xiqu
 戏曲	xiqua
@@ -106054,6 +106451,7 @@ sort: by_weight
 小瞧	xkqkii
 小强	xkqm
 小妾	xkqn
+小球	xkqo
 小球	xkqq
 小泉	xkqt
 小圈	xkqti
@@ -106765,6 +107163,7 @@ sort: by_weight
 迅猛前进	xmqj
 修桥	xmqk
 羞怯	xmqn
+绣球	xmqo
 绣球	xmqq
 羞怯	xmqx
 席慕蓉	xmr
@@ -107575,6 +107974,7 @@ sort: by_weight
 小拳拳捶你胸口	xqqk
 修桥	xqqk
 羞怯	xqqn
+绣球	xqqo
 绣球	xqqq
 羞怯	xqqx
 星期日	xqr
@@ -108066,6 +108466,8 @@ sort: by_weight
 显示器增高架	xsqj
 现实情况	xsqk
 悬索桥	xsqki
+夏秋	xsqo
+下丘	xsqoe
 夏秋	xsqq
 下丘	xsqqe
 箱说全	xsqt
@@ -108683,6 +109085,8 @@ sort: by_weight
 吁气	xuqi
 续期	xuqia
 续签	xuqj
+需求	xuqo
+吁求	xuqoo
 需求	xuqq
 吁求	xuqqo
 序曲	xuqu
@@ -108922,6 +109326,8 @@ sort: by_weight
 吁气	xvqi
 续期	xvqia
 续签	xvqj
+需求	xvqo
+吁求	xvqoo
 需求	xvqq
 吁求	xvqqo
 序曲	xvqu
@@ -109855,6 +110261,8 @@ sort: by_weight
 汛情	xyqga
 徇情	xyqgu
 汛期	xyqi
+寻求	xyqo
+新要求	xyqooe
 寻求	xyqq
 心有戚戚	xyqqo
 新要求	xyqqoe
@@ -110261,6 +110669,9 @@ sort: by_weight
 薛之谦	xzqj
 学前	xzqj
 雪橇	xzqk
+雪球	xzqo
+削球	xzqoi
+血球	xzqou
 雪球	xzqq
 削球	xzqqi
 血球	xzqqu
@@ -111080,6 +111491,7 @@ sort: by_weight
 银枪	ybqmi
 音腔	ybqmou
 殷切	ybqnu
+银球	ybqo
 银球	ybqq
 养兵千日	ybqr
 隐去	ybqu
@@ -111945,6 +112357,7 @@ sort: by_weight
 要钱	ydqj
 要强	ydqm
 一刀切	ydqn
+要求	ydqo
 要求	ydqq
 要去	ydqu
 要去	ydqv
@@ -112841,6 +113254,7 @@ sort: by_weight
 一发千钧	yfqj
 烟钱	yfqjo
 烟枪	yfqm
+眼球	yfqo
 眼球	yfqq
 远房亲戚	yfqq
 眼圈	yfqt
@@ -113484,6 +113898,7 @@ sort: by_weight
 雨刮器	ygqieu
 赢棋	ygqio
 赢钱	ygqj
+赢球	ygqo
 赢球	ygqq
 言过其实	ygqs
 衣冠禽兽	ygqso
@@ -114015,6 +114430,7 @@ sort: by_weight
 月前	yhqj
 跃迁	yhqjo
 越强	yhqm
+月球	yhqo
 月球	yhqq
 越权	yhqt
 优惠券	yhqti
@@ -114838,6 +115254,7 @@ sort: by_weight
 一枪	yiqm
 一腔	yiqme
 一切	yiqn
+以求	yiqo
 以求	yiqq
 一圈	yiqt
 一拳	yiqte
@@ -115857,6 +116274,7 @@ sort: by_weight
 烟钱	yjqjo
 用尽全力	yjql
 烟枪	yjqm
+眼球	yjqo
 眼球	yjqq
 养军千日	yjqr
 眼圈	yjqt
@@ -116485,6 +116903,7 @@ sort: by_weight
 要钱	ykqj
 一块钱	ykqje
 要强	ykqm
+要求	ykqo
 要求	ykqq
 要去	ykqu
 要去	ykqv
@@ -117197,6 +117616,7 @@ sort: by_weight
 元明清	ymqg
 译码器	ymqi
 月明千里	ymql
+羽毛球	ymqo
 羽毛球拍	ymqp
 羽毛球	ymqq
 以貌取人	ymqr
@@ -117520,6 +117940,7 @@ sort: by_weight
 氧气	ypqiu
 洋钱	ypqj
 洋枪	ypqm
+央求	ypqo
 央求	ypqq
 阳泉	ypqt
 养犬	ypqto
@@ -119004,6 +119425,7 @@ sort: by_weight
 洋钱	ysqj
 饮食起居	ysqj
 洋枪	ysqm
+央求	ysqo
 央求	ysqq
 阳泉	ysqt
 隐私权	ysqt
@@ -119567,6 +119989,7 @@ sort: by_weight
 远期	ytqiee
 元钱	ytqj
 院墙	ytqm
+圆球	ytqo
 圆球	ytqq
 圆圈	ytqt
 源泉	ytqta
@@ -120156,6 +120579,7 @@ sort: by_weight
 御前	yuqju
 昱琼	yuql
 余切	yuqn
+欲求	yuqo
 欲求	yuqq
 羽泉	yuqt
 渔区	yuqu
@@ -120773,6 +121197,7 @@ sort: by_weight
 御前	yvqju
 昱琼	yvql
 余切	yvqn
+欲求	yvqo
 欲求	yvqq
 羽泉	yvqt
 渔区	yvqu
@@ -121836,6 +122261,8 @@ sort: by_weight
 玉液琼浆	yyqj
 叶一茜	yyqjo
 药药切克闹	yyqn
+运球	yyqo
+严要求	yyqoe
 运球	yyqq
 严要求	yyqqe
 演艺圈	yyqt
@@ -122471,6 +122898,7 @@ sort: by_weight
 愚者千虑	yzql
 越强	yzqm
 有志青年	yzqn
+月球	yzqo
 月球	yzqq
 颐指气使	yzqs
 一柱擎天	yzqt
@@ -123525,6 +123953,7 @@ sort: by_weight
 装穷	zcql
 撞墙	zcqm
 装腔	zcqmo
+撞球	zcqo
 撞球	zcqq
 主持人	zcr
 正常人	zcrn
@@ -125888,6 +126317,9 @@ sort: by_weight
 支枪	ziqmue
 之切	ziqn
 趑趄	ziqne
+只求	ziqo
+纸球	ziqoa
+之秋	ziqoo
 只求	ziqq
 纸球	ziqqa
 之秋	ziqqo
@@ -127444,6 +127876,7 @@ sort: by_weight
 找钱	zkqj
 早前	zkqjo
 造桥	zkqk
+早秋	zkqo
 早秋	zkqq
 制空权	zkqt
 造人	zkr
@@ -128062,6 +128495,8 @@ sort: by_weight
 皱了起来	zlqlu
 中枪	zlqm
 左轮枪	zlqme
+中秋	zlqo
+仲秋	zlqoi
 中秋	zlqq
 仲秋	zlqqi
 重拳	zlqt
@@ -128817,6 +129252,7 @@ sort: by_weight
 争抢	zmqmu
 争强	zmqmua
 正切	zmqn
+征求	zmqo
 征求	zmqq
 政权	zmqt
 证券	zmqto
@@ -129771,6 +130207,7 @@ sort: by_weight
 桌前	zoqj
 左迁	zoqje
 做强	zoqm
+桌球	zoqo
 桌球	zoqq
 左权	zoqt
 作曲	zoqu
@@ -131806,6 +132243,7 @@ sort: by_weight
 租期	zuqiue
 竹签	zuqj
 筑墙	zuqm
+足球	zuqo
 足球	zuqq
 主权	zuqt
 族权	zuqto
@@ -132285,6 +132723,7 @@ sort: by_weight
 嘴欠	zvqjou
 最穷	zvql
 最强	zvqm
+追求	zvqo
 追求	zvqq
 最全	zvqt
 醉拳	zvqte
