@@ -138,6 +138,119 @@ fallback_colors:
   
 #配色方案
 preset_color_schemes:
+  pastel purple:
+    author: none
+    name: Pastel Purple
+    back_color: 0xfffefefe #候选区背景状态栏
+    border_color: 0xfffefefe #悬浮边框
+    candidate_separator_color: 0x00000000 #候选分割背景
+    candidate_text_color: 0xff5a676e #候选文本
+    comment_text_color: 0xff8e8eb2 #提示
+    hilited_back_color: 0x00000000 #高亮编码背景
+    hilited_candidate_back_color: 0x00000000 #高亮候选背景
+    hilited_candidate_text_color: 0xff8e8eb2 #高亮候选文本
+    hilited_comment_text_color: 0xff000000 #高亮提示
+    hilited_key_back_color: 0xff8e8eb2 #高亮按键背景
+    hilited_key_symbol_color: 0xfffefefe #高亮按键符号
+    hilited_key_text_color: 0xfffefefe #高亮按键文本
+    hilited_off_key_back_color: 0xfffefefe #高亮按键关闭状态背景
+    hilited_off_key_text_color: 0xff000000 #高亮按键关闭状态文本
+    hilited_on_key_back_color: 0xfffefefe
+    hilited_on_key_text_color: 0xff000000
+    hilited_text_color: 0xff8e8eb2 #高亮编码
+    key_back_color: 0xfffefefe #按键背景
+    key_symbol_color: 0xff414141 #按键符号
+    key_text_color: 0xff414141 #按键文本
+    keyboard_back_color: 0xffe1e1e1 #键盘背景
+    label_color: 0xff5a676e #标签
+    off_key_back_color: 0xff8e8eb2 #按键关闭状态背景
+    off_key_text_color: 0xfffefefe #按键关闭状态文本
+    on_key_back_color: 0xff8e8eb2
+    on_key_text_color: 0xff000000
+    preview_back_color: 0xff8e8eb2 #按键提示背景
+    preview_text_color: 0xfffefefe #按键提示文本
+    shadow_color: 0xff000000 #按键文字阴影
+    text_back_color: 0xfffefefe #编码区悬浮窗背景
+    text_color: 0xff5a676e #编码
+    qnh: 0xff8e8eb2
+    qnb: 0xfffefefe
+    wnh: 0xff8e8eb2
+    wnb: 0xfffefefe 
+    enh: 0xff8e8eb2 
+    enb: 0xfffefefe 
+    rnh: 0xff8e8eb2 
+    rnb: 0xfffefefe 
+    tnh: 0xff8e8eb2 
+    tnb: 0xfffefefe 
+    ynh: 0xff8e8eb2 
+    ynb: 0xfffefefe 
+    unh: 0xff8e8eb2 
+    unb: 0xfffefefe 
+    inh: 0xff8e8eb2 
+    inb: 0xfffefefe 
+    onh: 0xff8e8eb2 
+    onb: 0xfffefefe 
+    pnh: 0xff8e8eb2 
+    pnb: 0xfffefefe 
+    anh: 0xff8e8eb2 
+    anb: 0xfffefefe 
+    snh: 0xff8e8eb2 
+    snb: 0xfffefefe
+    dnh: 0xff8e8eb2
+    dnb: 0xfffefefe 
+    fnh: 0xff8e8eb2
+    fnb: 0xfffefefe 
+    gnh: 0xff8e8eb2 
+    gnb: 0xfffefefe 
+    hnh: 0xff8e8eb2 
+    hnb: 0xfffefefe 
+    jnh: 0xff8e8eb2 
+    jnb: 0xfffefefe 
+    knh: 0xff8e8eb2 
+    knb: 0xfffefefe 
+    lnh: 0xff8e8eb2 
+    lnb: 0xfffefefe 
+    znh: 0xff8e8eb2 
+    znb: 0xfffefefe 
+    xnh: 0xff8e8eb2 
+    xnb: 0xfffefefe 
+    cnh: 0xff8e8eb2 
+    cnb: 0xfffefefe 
+    vnh: 0xff8e8eb2 
+    vnb: 0xfffefefe 
+    bnh: 0xff8e8eb2 
+    bnb: 0xfffefefe
+    nnh: 0xff8e8eb2
+    nnb: 0xfffefefe 
+    mnh: 0xff8e8eb2 
+    mnb: 0xfffefefe
+    nmb: 0xfffefefe
+    nmh: 0xff8e8eb2
+    gmb: 0xff8e8eb2 #主键功能键背景
+    gmh: 0xfffefefe #主键功能键高亮背景
+    dmb: 0xff8e8eb2 #主键退格键背景
+    dmh: 0xfffefefe #主键退格键高亮背景
+    numb: 0xff8e8eb2 #主键顶排数字键背景
+    numh: 0xfffefefe #主键顶排数字键高亮背景
+    numt: 0xfffefefe
+    numht: 0xff414141
+    gms: 0xfffefefe #功能键上档文字颜色
+    gmhs: 0xff000000
+    gnt: 0xfffefefe
+    kgb: 0xfffefefe #空格背景
+    kgh: 0xff8e8eb2
+    kgs: 0xff414141
+    kgt: 0xff414141
+    hcb: 0xff8e8eb2 #回车键背景色
+    hch: 0xfffefefe #回车键高亮背景
+    hcs: 0xfffefefe #回车键上档文字颜色
+    hchs: 0xff000000
+    hct: 0xfffefefe #回车键文字颜色
+    cdt: 0xff8e8eb2 #符号键盘当前菜单键文字颜色
+    cdh: 0xfffefefe
+    fyt: 0xffd3d7da #翻页键止文字颜色
+    sky: 0xff8e8eb2 #sky键文字颜色  
+    xdb: 0xfffefefe #❖选单界面背景色
   pastel green:
     author: none
     name: Pastel Green
