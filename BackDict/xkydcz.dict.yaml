@@ -5173,11 +5173,11 @@ sort: by_weight
 杯水车薪	bscx
 不是的	bsd
 棒打	bsda
-北师大	bsda
+北师大	bsdai
 板上钉钉	bsdd
 不舍得	bsde
 绑定	bsdg
-波斯帝国	bsdg
+波斯帝国	bsdga
 帮顶	bsdge
 绑带	bsdh
 巴士底	bsdi
@@ -58728,6 +58728,7 @@ sort: by_weight
 摩尔	mevu
 莫忘	mew
 莫问	mewn
+摸我	mewo
 魔王	mewp
 莫忘	mewpi
 末尾	meww
@@ -58746,6 +58747,7 @@ sort: by_weight
 莫嫌	mexji
 莫笑	mexk
 抹胸	mexl
+摸胸	mexli
 默写	mexn
 默许	mexu
 莫须	mexui
@@ -61126,6 +61128,7 @@ sort: by_weight
 摩尔	movu
 莫忘	mow
 莫问	mown
+摸我	mowo
 魔王	mowp
 莫忘	mowpi
 末尾	moww
@@ -61144,6 +61147,7 @@ sort: by_weight
 莫嫌	moxji
 莫笑	moxk
 抹胸	moxl
+摸胸	moxli
 默写	moxn
 默许	moxu
 莫须	moxui
@@ -64377,8 +64381,8 @@ sort: by_weight
 腻害	nih
 你还	nihh
 腻害	nihhu
-泥嚎	nihk
-你好	nihki
+你好	nihk
+泥嚎	nihka
 霓虹	nihl
 你狠	nihn
 逆火	niho
@@ -85244,6 +85248,7 @@ sort: by_weight
 双拳难敌四手	sqns
 失去平衡	sqph
 死翘翘	sqq
+生气气	sqqi
 神清气爽	sqqs
 神清气闲	sqqx
 尚且如此	sqrc
@@ -99522,6 +99527,7 @@ sort: by_weight
 完全能	wqns
 问渠哪得清如许	wqnx
 顽强拼搏	wqpb
+委屈屈	wqq
 委曲求全	wqqq
 完全是	wqs
 王岐山	wqsj
@@ -118575,7 +118581,8 @@ sort: by_weight
 亚热带	yrd
 犹大	yrda
 雍容大度	yrdd
-有德	yrde
+有的	yrde
+有德	yrdee
 由得	yrdei
 有点	yrdf
 优点	yrdfi
