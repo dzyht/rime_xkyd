@@ -4743,9 +4743,8 @@
 鲩	htuaoo
 貆	htuo
 貆	htuoeo
-和	hu
-湖	hua
-弧	huae
+湖	hu
+弧	hua
 弧	huaeuu
 滹	huai
 滹	huaiea
@@ -4797,10 +4796,9 @@
 芴	huiiua
 葫	huiiuo
 护	huiuoa
-许	huo
-户	huoa
+户	huo
+扈	huoa
 户	huoaeu
-扈	huoao
 扈	huoaoa
 戽	huoaoo
 祜	huoau
