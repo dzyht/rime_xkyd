@@ -22,3 +22,4 @@ po		o령r
 pb		b령c
 pn		n령t
 pm		m령v
+dq		q령b

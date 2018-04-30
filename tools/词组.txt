@@ -1,8 +1,3 @@
----
-name: xkydcz
-version: "Q1"
-sort: by_weight
-...
 把把	bab
 爸爸	baba
 把把	babai
@@ -3975,8 +3970,8 @@ sort: by_weight
 不可拥有	bkyyee
 包蕴	bkyyu
 包月	bkyz
-不可预知	bkyz
-不可言状	bkyze
+不可预知	bkyze
+不可言状	bkyzee
 半空中	bkz
 爆炸	bkza
 包扎	bkzau
@@ -4151,8 +4146,8 @@ sort: by_weight
 保龄球	blq
 柏林墙	blqc
 波澜起伏	blqf
-柏林墙	blqm
 不留情面	blqm
+柏林墙	blqme
 玻璃球	blqo
 玻璃球	blqq
 壁立千仞	blqr
@@ -4208,8 +4203,8 @@ sort: by_weight
 不良习惯	blxg
 病理学	blxh
 波浪线	blxj
-半老徐娘	blxn
 玻璃鞋	blxn
+半老徐娘	blxno
 玻璃纤维	blxw
 玻璃鞋	blxx
 病理学	blxz
@@ -4221,7 +4216,7 @@ sort: by_weight
 保留意见	blyji
 变了样	blyp
 变了样	blys
-不利因素	blys
+不利因素	blyse
 白鹿原	blyt
 不利于	blyu
 不利于	blyv
@@ -4358,7 +4353,7 @@ sort: by_weight
 报幕员	bmyt
 比目鱼	bmyu
 比目鱼	bmyv
-蔽美扬恶	bmyv
+蔽美扬恶	bmyvi
 并没有因为	bmyw
 不名一文	bmywe
 并没有什么卵用	bmyy
@@ -4467,7 +4462,7 @@ sort: by_weight
 本家	bnjse
 本剧	bnju
 本剧	bnjv
-不念旧恶	bnjv
+不念旧恶	bnjve
 笨贼	bnjw
 本届	bnjx
 本节	bnjxe
@@ -4872,8 +4867,8 @@ sort: by_weight
 帮帮	bpbp
 棒棒	bpbpe
 帮帮	bpbs
-不胖不瘦	bpbs
 棒棒	bpbse
+不胖不瘦	bpbseu
 蚌埠	bpbu
 不偏不倚	bpby
 不排除	bpc
@@ -4920,7 +4915,7 @@ sort: by_weight
 绑牢	bplk
 帮忙	bpmp
 帮忙	bpms
-不怕没柴烧	bpms
+不怕没柴烧	bpmse
 帮你	bpni
 不匹配	bpp
 绑票	bppd
@@ -5130,12 +5125,11 @@ sort: by_weight
 本硕博连读	bsbd
 不是办法	bsbf
 棒冰	bsbg
-比萨饼	bsbg
+比萨饼	bsbge
 半死不活	bsbh
 不死不活	bsbhe
 膀臂	bsbi
 百思不得其解	bsbj
-帮办	bsbj
 百思不解	bsbje
 百撕不得骑姐	bsbjei
 比赛版	bsbjeo
@@ -5148,9 +5142,9 @@ sort: by_weight
 帮帮	bsbp
 棒棒	bsbpe
 帮帮	bsbs
-不三不四	bsbs
-百试不爽	bsbse
 棒棒	bsbse
+不三不四	bsbse
+百试不爽	bsbseo
 半生不熟	bsbso
 半身不遂	bsbsou
 蚌埠	bsbu
@@ -5174,11 +5168,11 @@ sort: by_weight
 杯水车薪	bscx
 不是的	bsd
 棒打	bsda
-北师大	bsda
+北师大	bsdai
 板上钉钉	bsdd
 不舍得	bsde
 绑定	bsdg
-波斯帝国	bsdg
+波斯帝国	bsdga
 帮顶	bsdge
 绑带	bsdh
 巴士底	bsdi
@@ -8917,7 +8911,8 @@ sort: by_weight
 才罢	chbae
 彩妆	chbc
 拆装	chbci
-踩扁	chbf
+才变	chbf
+踩扁	chbfo
 采编	chbfu
 裁编	chbfua
 裁并	chbg
@@ -23690,6 +23685,7 @@ sort: by_weight
 反咬	fjyd
 翻页	fjye
 范爷	fjyei
+反野	fjyeu
 繁衍	fjyf
 富甲一方	fjyf
 翻眼	fjyfu
@@ -58729,6 +58725,7 @@ sort: by_weight
 摩尔	mevu
 莫忘	mew
 莫问	mewn
+摸我	mewo
 魔王	mewp
 莫忘	mewpi
 末尾	meww
@@ -58747,6 +58744,7 @@ sort: by_weight
 莫嫌	mexji
 莫笑	mexk
 抹胸	mexl
+摸胸	mexli
 默写	mexn
 默许	mexu
 莫须	mexui
@@ -61127,6 +61125,7 @@ sort: by_weight
 摩尔	movu
 莫忘	mow
 莫问	mown
+摸我	mowo
 魔王	mowp
 莫忘	mowpi
 末尾	moww
@@ -61145,6 +61144,7 @@ sort: by_weight
 莫嫌	moxji
 莫笑	moxk
 抹胸	moxl
+摸胸	moxli
 默写	moxn
 默许	moxu
 莫须	moxui
@@ -64378,8 +64378,8 @@ sort: by_weight
 腻害	nih
 你还	nihh
 腻害	nihhu
-泥嚎	nihk
-你好	nihki
+你好	nihk
+泥嚎	nihka
 霓虹	nihl
 你狠	nihn
 逆火	niho
@@ -81039,7 +81039,8 @@ sort: by_weight
 视如	siruo
 湿润	siry
 师说	sis
-厮杀	sisa
+四杀	sisa
+厮杀	sisae
 是啥	sisao
 施舍	sise
 巳蛇	sisea
@@ -82237,7 +82238,8 @@ sort: by_weight
 尸积如山	sjrs
 善解人意	sjry
 实际上	sjs
-散沙	sjsa
+三杀	sjsa
+散沙	sjsae
 世界市场	sjsc
 三简三字词	sjsce
 数据手册	sjsco
@@ -85245,6 +85247,7 @@ sort: by_weight
 双拳难敌四手	sqns
 失去平衡	sqph
 死翘翘	sqq
+生气气	sqqi
 神清气爽	sqqs
 神清气闲	sqqx
 尚且如此	sqrc
@@ -99523,6 +99526,7 @@ sort: by_weight
 完全能	wqns
 问渠哪得清如许	wqnx
 顽强拼搏	wqpb
+委屈屈	wqq
 委曲求全	wqqq
 完全是	wqs
 王岐山	wqsj
@@ -100234,7 +100238,8 @@ sort: by_weight
 误入	wuruo
 勿入	wuruu
 武师	wus
-误杀	wusa
+五杀	wusa
+误杀	wusao
 乌纱	wusau
 无双	wusc
 五双	wusce
@@ -102633,6 +102638,7 @@ sort: by_weight
 想念	xcnf
 享年	xcnfo
 西城男孩	xcnh
+想你	xcni
 向南	xcnj
 香浓	xcnl
 巷弄	xcnle
@@ -118576,7 +118582,8 @@ sort: by_weight
 亚热带	yrd
 犹大	yrda
 雍容大度	yrdd
-有德	yrde
+有的	yrde
+有德	yrdee
 由得	yrdei
 有点	yrdf
 优点	yrdfi

@@ -8,6 +8,8 @@ schema_list:
   - schema: xkybdz
   - schema: xkyd
   - schema: xkyddz
+  - schema: xkmd
+  - schema: xkmddz
   
 switcher:
   caption: 〔方案選單〕
